@@ -1,0 +1,30 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+For my final project I wanted my program to do a particular thing if certain
+conditions had been met. The ability to right a function which returned True
+if the conditions were met and False if not, was very useful in making my
+code more reuseable and cleaner. Trying to write it without functions would
+have been a nightmare especially when it comes to debugging and troubleshooting.
+
+
+
+2. In your judgment, what is the value of test functions?
+
+I think its value lies in the fact that it compels you to think of things
+that could potentially break your code. Test functions also provide the 
+luxury of testing particular functions without having to run the entire
+code from start to finish.
+
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+The first thing I usually do is check that my IDE has not flagged any syntax
+errors. Then, I write a test program. If I still am not able to find the 
+problem, I use the debug functionality and go thrrough the steps and variables
+the program is taking and saving.
